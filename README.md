@@ -19,7 +19,7 @@
 | [quiz_site](https://github.com/illusionoftalha/quiz_site) | Full-stack quiz platform — Node.js, Express, MySQL/SQLite, Docker |
 | [chess](https://github.com/illusionoftalha/chess) | Fully-featured chess game in C with SDL2 — check, castling, timers |
 | [checkers](https://github.com/illusionoftalha/checkers) | Two-player checkers in C with SDL2 — king promotion, jump captures |
-| [flappybird](https://github.com/illusionoftalha/flappybird) | Terminal Flappy Bird in plain C — no libraries, no structs |
+| [terminal-chess](https://github.com/illusionoftalha/terminal-chess) | Fully-featured chess in the terminal — plain C, no libraries |
 | [pixel-dots](https://github.com/illusionoftalha/pixel-dots) | Processing sketch that converts portraits into halftone dot art |
 | [gallery_cards](https://github.com/illusionoftalha/gallery_cards) | Draggable 3D city card carousel — pure vanilla JS |
 | [travel_timeline_site](https://github.com/illusionoftalha/travel_timeline_site) | 10-day Pakistan tour documented as an animated Bootstrap timeline |
