@@ -1,12 +1,10 @@
 # Hey, I'm Talha 👋
-
 **WordPress Developer & Full Stack Engineer** based in Karachi, Pakistan.  
 6+ years building robust web solutions — from custom WordPress ecosystems to native games in C.
 
 ---
 
 ## 🛠 Tech Stack
-
 **Languages** — C · C++ · Java · Python · PHP · Kotlin *(learning)* · Processing  
 **Web** — WordPress · HTML · CSS · JavaScript  
 **Backend** — Node.js · Express · MySQL · SQLite  
@@ -15,7 +13,6 @@
 ---
 
 ## 🚀 Selected Projects
-
 | Project | What it is |
 |---------|-----------|
 | [portfolio](https://github.com/illusionoftalha/portfolio) | Cinematic scroll-driven personal site — GSAP, WebGL, Lenis |
@@ -32,7 +29,6 @@
 ---
 
 ## 💼 Experience
-
 **Co-Founder & COO** — Quantum Code Labs *(Dec 2023 – Feb 2026)*  
 **Jr. Website Developer** — DigiTech *(Mar 2019 – Jan 2020)*  
 **Frontend Intern** — Lamhe Production *(2020 – 2023)*
@@ -40,9 +36,9 @@
 ---
 
 ## 📬 Get in Touch
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-talha--dev--topaz.vercel.app-black?style=flat-square)](https://talha-dev-topaz.vercel.app)
 [![Email](https://img.shields.io/badge/Email-muhammadtalhabinkhalid%40gmail.com-red?style=flat-square)](mailto:muhammadtalhabinkhalid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheikh%20Muhammad%20Talha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regretsandfuckupsoftalha/)
 [![Behance](https://img.shields.io/badge/Behance-sheikhmuhammadtalha-blue?style=flat-square)](https://www.behance.net/sheikhmuhammadtalha)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sonneteertalha-orange?style=flat-square)](https://leetcode.com/u/sonneteertalha/)
 
