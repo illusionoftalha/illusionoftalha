@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages** — C · C++ · Java · Python · PHP · Kotlin *(learning)* · Processing  
+**Languages** — C · C++ · Java · Python · PHP · Kotlin *(learning)* · Processing · Java  
 **Web** — WordPress · HTML · CSS · JavaScript  
 **Backend** — Node.js · Express · MySQL · SQLite  
 **Tools** — Docker · SDL2 · GSAP · Bootstrap · Vercel
