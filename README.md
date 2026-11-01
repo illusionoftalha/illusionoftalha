@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://talha-dev-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-talha--dev--topaz.vercel.app-0078D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:MUHAMMADTALHABINKHALID@GMAIL.COM"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://talha-dev-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-talha--dev--topaz.vercel.app-3a3a3a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-3a3a3a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:MUHAMMADTALHABINKHALID@GMAIL.COM"><img src="https://img.shields.io/badge/Email-Say%20hello-3a3a3a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -32,23 +32,23 @@ int main(void) {
 ## 🛠️ What I work with
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-3a3a3a?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-3a3a3a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java%20Swing-3a3a3a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" />
+  <img src="https://img.shields.io/badge/C++-3a3a3a?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3a3a3a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-3a3a3a?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-3a3a3a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/WordPress-3a3a3a?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Node.js-3a3a3a?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-3a3a3a?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-3a3a3a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-3a3a3a?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-3a3a3a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GSAP-3a3a3a?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Vercel-3a3a3a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotlin**.
@@ -102,9 +102,9 @@ Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotli
 Got an idea or a role in mind? I'd love to hear it.
 
 <p>
-  <a href="https://talha-dev-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/sheikhmuhammadtalha"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://leetcode.com/u/sonneteertalha/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:MUHAMMADTALHABINKHALID@GMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://talha-dev-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3a3a3a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-3a3a3a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/sheikhmuhammadtalha"><img src="https://img.shields.io/badge/Behance-3a3a3a?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://leetcode.com/u/sonneteertalha/"><img src="https://img.shields.io/badge/LeetCode-3a3a3a?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:MUHAMMADTALHABINKHALID@GMAIL.COM"><img src="https://img.shields.io/badge/Email-3a3a3a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
