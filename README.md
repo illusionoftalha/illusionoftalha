@@ -16,7 +16,7 @@
 
 ## 👋 About
 
-I love **C** and **Java** more than anything. They are where I think best, and where I learned what clean, honest code looks like. Around them I build for the web: custom WordPress ecosystems, Node.js apps, and motion-heavy front ends.
+I love **C** and **Java** (including desktop apps with **Swing**) more than anything. They are where I think best, and where I learned what clean, honest code looks like. Around them I build for the web: custom WordPress ecosystems, Node.js apps, and motion-heavy front ends.
 
 Six years in, I still care about the same things: clean architecture, speed, and software that stays maintainable long after it ships.
 
@@ -34,6 +34,7 @@ int main(void) {
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -50,12 +51,12 @@ int main(void) {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-Also: SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotlin**.
+Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotlin**.
 
 ## 🎯 Focus areas
 
 - **Systems and graphics:** C and C++ with SDL2
-- **Java:** core fundamentals and object-oriented design
+- **Java and Swing:** core fundamentals, object-oriented design, and desktop GUIs with Swing
 - **Full stack apps:** Node.js, Express, and relational databases
 - **WordPress engineering:** themes, plugins, and performance-focused builds
 - **Motion on the web:** GSAP and WebGL experiences
