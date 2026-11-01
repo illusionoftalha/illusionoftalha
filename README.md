@@ -67,25 +67,31 @@ Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotli
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| [chess](https://github.com/17DevLoverProTec/chess) | Chess engine with check detection, castling, and timers | C, SDL2 |
-| [checkers](https://github.com/17DevLoverProTec/checkers) | Two-player checkers with king promotion and jump captures | C, SDL2 |
-| [terminal-chess](https://github.com/17DevLoverProTec/terminal-chess) | Terminal chess with zero external dependencies | C |
-| [learn_java](https://github.com/17DevLoverProTec/learn_java) | Core Java tutorials, one file per topic | Java |
+| <a href="https://github.com/17DevLoverProTec/chess"><img src="https://img.shields.io/badge/chess-3a3a3a?style=flat-square" alt="chess" /></a> | Chess engine with check detection, castling, and timers | C, SDL2 |
+| <a href="https://github.com/17DevLoverProTec/checkers"><img src="https://img.shields.io/badge/checkers-3a3a3a?style=flat-square" alt="checkers" /></a> | Two-player checkers with king promotion and jump captures | C, SDL2 |
+| <a href="https://github.com/17DevLoverProTec/terminal-chess"><img src="https://img.shields.io/badge/terminal--chess-3a3a3a?style=flat-square" alt="terminal-chess" /></a> | Terminal chess with zero external dependencies | C |
+| <a href="https://github.com/17DevLoverProTec/learn_java"><img src="https://img.shields.io/badge/learn__java-3a3a3a?style=flat-square" alt="learn_java" /></a> | Core Java tutorials, one file per topic | Java |
 
 ### Web and creative
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| [portfolio](https://github.com/17DevLoverProTec/portfolio) | Cinematic, scroll-driven personal site | GSAP, WebGL, Lenis |
-| [quiz_site](https://github.com/17DevLoverProTec/quiz_site) | Full stack quiz platform ([live](https://quizsite-chi.vercel.app/)) | Node.js, Express, MySQL, SQLite, Docker |
-| [pixel-dub](https://github.com/17DevLoverProTec/pixel-dub) | Turns portraits into halftone dot art | Processing |
-| [gallery_owls](https://github.com/17DevLoverProTec/gallery_owls) | Draggable 3D card carousel | JavaScript |
-| [travel_timeline_site](https://github.com/17DevLoverProTec/travel_timeline_site) | Animated timeline of a 10-day Pakistan tour | Bootstrap |
-| [learn-python](https://github.com/17DevLoverProTec/learn-python) | Python tutorials, beginner to advanced | Python |
+| <a href="https://github.com/17DevLoverProTec/portfolio"><img src="https://img.shields.io/badge/portfolio-3a3a3a?style=flat-square" alt="portfolio" /></a> | Cinematic, scroll-driven personal site | GSAP, WebGL, Lenis |
+| <a href="https://github.com/17DevLoverProTec/quiz_site"><img src="https://img.shields.io/badge/quiz__site-3a3a3a?style=flat-square" alt="quiz_site" /></a> | Full stack quiz platform <a href="https://quizsite-chi.vercel.app/"><img src="https://img.shields.io/badge/live-7a7a7a?style=flat-square" alt="live" /></a> | Node.js, Express, MySQL, SQLite, Docker |
+| <a href="https://github.com/17DevLoverProTec/pixel-dub"><img src="https://img.shields.io/badge/pixel--dub-3a3a3a?style=flat-square" alt="pixel-dub" /></a> | Turns portraits into halftone dot art | Processing |
+| <a href="https://github.com/17DevLoverProTec/gallery_owls"><img src="https://img.shields.io/badge/gallery__owls-3a3a3a?style=flat-square" alt="gallery_owls" /></a> | Draggable 3D card carousel | JavaScript |
+| <a href="https://github.com/17DevLoverProTec/travel_timeline_site"><img src="https://img.shields.io/badge/travel__timeline__site-3a3a3a?style=flat-square" alt="travel_timeline_site" /></a> | Animated timeline of a 10-day Pakistan tour | Bootstrap |
+| <a href="https://github.com/17DevLoverProTec/learn-python"><img src="https://img.shields.io/badge/learn--python-3a3a3a?style=flat-square" alt="learn-python" /></a> | Python tutorials, beginner to advanced | Python |
 
 ### Client work (live)
 
-[The Wild Wearable](https://thewildwearable.com/) · [Wheeltick](http://wheeltick.com/) · [Marine Checker](http://marinechecker.com/) · [Clipzo Lounge](https://clipzolounge.com/) · [Purezia Organics](http://pureziaorganics.com/)
+<p>
+  <a href="https://thewildwearable.com/"><img src="https://img.shields.io/badge/The%20Wild%20Wearable-3a3a3a?style=flat-square" alt="The Wild Wearable" /></a>
+  <a href="http://wheeltick.com/"><img src="https://img.shields.io/badge/Wheeltick-3a3a3a?style=flat-square" alt="Wheeltick" /></a>
+  <a href="http://marinechecker.com/"><img src="https://img.shields.io/badge/Marine%20Checker-3a3a3a?style=flat-square" alt="Marine Checker" /></a>
+  <a href="https://clipzolounge.com/"><img src="https://img.shields.io/badge/Clipzo%20Lounge-3a3a3a?style=flat-square" alt="Clipzo Lounge" /></a>
+  <a href="http://pureziaorganics.com/"><img src="https://img.shields.io/badge/Purezia%20Organics-3a3a3a?style=flat-square" alt="Purezia Organics" /></a>
+</p>
 
 ## Experience
 
