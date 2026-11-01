@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://talha-dev-topaz.vercel.app/"><img src="./portfolio.svg" height="42" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="./linkedin.svg" height="42" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sheikhmuhammadtalhabinkhalid/"><img src="./linkedin.svg" height="42" alt="LinkedIn" /></a>
   <a href="mailto:MUHAMMADTALHABINKHALID@GMAIL.COM"><img src="./email.svg" height="42" alt="Email" /></a>
 </p>
 
@@ -85,11 +85,11 @@ public class Talha {
 
 <img src="./experience.svg" width="100%" alt="Experience" />
 
-| When | Role | Where |
-|:--|:--|:--|
-| Dec 2023 – Feb 2026 | Co-Founder, COO & Website Developer | **Quantum Code Labs** |
-| 2020 – 2023 | Intern | **Lamhe Production** |
-| Mar 2019 – Jan 2020 | Junior Website Developer | **DigiTech** |
+| When | Role | Where | Details |
+|:--|:--|:--|:--|
+| Aug 2023 – Feb 2026 | Co-Founder, Senior Web Developer | **Quantum Code Labs** (full-time) | Co-founded the company and oversaw operations. Led website projects and delivered WordPress-based solutions for clients. |
+| Jan 2022 – Nov 2023 | Web Developer | **DigiTech** (part-time) | Built, designed, and continually updated web projects with WordPress and PHP. |
+| Jan 2019 – Mar 2023 | Web Developer | **Lamhe Production** (full-time, remote) | Contributed to web development projects. |
 
 Education: Usman Institute of Technology, Karachi
 
@@ -103,7 +103,7 @@ Education: Usman Institute of Technology, Karachi
 
 <p align="center">
   <a href="https://talha-dev-topaz.vercel.app/"><img src="./portfolio.svg" height="42" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="./linkedin.svg" height="42" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sheikhmuhammadtalhabinkhalid/"><img src="./linkedin.svg" height="42" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/sheikhmuhammadtalha"><img src="./behance.svg" height="42" alt="Behance" /></a>
   <a href="https://leetcode.com/u/sonneteertalha/"><img src="./leetcode.svg" height="42" alt="LeetCode" /></a>
   <a href="mailto:MUHAMMADTALHABINKHALID@GMAIL.COM"><img src="./email.svg" height="42" alt="Email" /></a>
