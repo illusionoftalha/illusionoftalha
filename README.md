@@ -81,6 +81,8 @@ public class Talha {
 | **Clipzo Lounge** | Premium web application | <a href="https://clipzolounge.com/"><img src="./visit.svg" height="24" alt="Visit" /></a> |
 | **Purezia Organics** | WordPress e-commerce | <a href="http://pureziaorganics.com/"><img src="./visit.svg" height="24" alt="Visit" /></a> |
 
+<sub>Note: some of these links may be offline or look different from what I built. A few clients' businesses slowed down or closed, and others redesigned their sites after I moved on to new roles. Happy to walk through screenshots or code on request.</sub>
+
 <br />
 
 <img src="./experience.svg" width="100%" alt="Experience" />
