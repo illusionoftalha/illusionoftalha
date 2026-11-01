@@ -20,12 +20,11 @@ I love **C** and **Java** (including desktop apps with **Swing**) more than anyt
 
 Six years in, I still care about the same things: clean architecture, speed, and software that stays maintainable long after it ships.
 
-```c
-#include <stdio.h>
-
-int main(void) {
-    printf("Talha: C, Java, and the web.\n");
-    return 0;
+```text
+public class Talha {
+    public static void main(String[] args) {
+        System.out.println("Talha: Java, C, and the web.");
+    }
 }
 ```
 
