@@ -65,33 +65,33 @@ Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotli
 
 ### Built in C and Java
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| <a href="https://github.com/17DevLoverProTec/chess"><img src="https://img.shields.io/badge/chess-3a3a3a?style=flat-square" alt="chess" /></a> | Chess engine with check detection, castling, and timers | C, SDL2 |
-| <a href="https://github.com/17DevLoverProTec/checkers"><img src="https://img.shields.io/badge/checkers-3a3a3a?style=flat-square" alt="checkers" /></a> | Two-player checkers with king promotion and jump captures | C, SDL2 |
-| <a href="https://github.com/17DevLoverProTec/terminal-chess"><img src="https://img.shields.io/badge/terminal--chess-3a3a3a?style=flat-square" alt="terminal-chess" /></a> | Terminal chess with zero external dependencies | C |
-| <a href="https://github.com/17DevLoverProTec/learn_java"><img src="https://img.shields.io/badge/learn__java-3a3a3a?style=flat-square" alt="learn_java" /></a> | Core Java tutorials, one file per topic | Java |
+| Project | What it is | Stack | Link |
+|:--|:--|:--|:--|
+| **chess** | Chess engine with check detection, castling, and timers | C, SDL2 | <a href="https://github.com/17DevLoverProTec/chess"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **checkers** | Two-player checkers with king promotion and jump captures | C, SDL2 | <a href="https://github.com/17DevLoverProTec/checkers"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **terminal-chess** | Terminal chess with zero external dependencies | C | <a href="https://github.com/17DevLoverProTec/terminal-chess"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **learn_java** | Core Java tutorials, one file per topic | Java | <a href="https://github.com/17DevLoverProTec/learn_java"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
 
 ### Web and creative
 
-| Project | What it is | Stack |
+| Project | What it is | Stack | Link |
+|:--|:--|:--|:--|
+| **portfolio** | Cinematic, scroll-driven personal site | GSAP, WebGL, Lenis | <a href="https://github.com/17DevLoverProTec/portfolio"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **quiz_site** | Full stack quiz platform | Node.js, Express, MySQL, SQLite, Docker | <a href="https://github.com/17DevLoverProTec/quiz_site"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> <a href="https://quizsite-chi.vercel.app/"><img src="https://img.shields.io/badge/LIVE-7a7a7a?style=flat-square" alt="LIVE" /></a> |
+| **pixel-dub** | Turns portraits into halftone dot art | Processing | <a href="https://github.com/17DevLoverProTec/pixel-dub"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **gallery_owls** | Draggable 3D card carousel | JavaScript | <a href="https://github.com/17DevLoverProTec/gallery_owls"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **travel_timeline_site** | Animated timeline of a 10-day Pakistan tour | Bootstrap | <a href="https://github.com/17DevLoverProTec/travel_timeline_site"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+| **learn-python** | Python tutorials, beginner to advanced | Python | <a href="https://github.com/17DevLoverProTec/learn-python"><img src="https://img.shields.io/badge/REPO-3a3a3a?style=flat-square" alt="REPO" /></a> |
+
+### Client work
+
+| Client | Type | Link |
 |:--|:--|:--|
-| <a href="https://github.com/17DevLoverProTec/portfolio"><img src="https://img.shields.io/badge/portfolio-3a3a3a?style=flat-square" alt="portfolio" /></a> | Cinematic, scroll-driven personal site | GSAP, WebGL, Lenis |
-| <a href="https://github.com/17DevLoverProTec/quiz_site"><img src="https://img.shields.io/badge/quiz__site-3a3a3a?style=flat-square" alt="quiz_site" /></a> | Full stack quiz platform <a href="https://quizsite-chi.vercel.app/"><img src="https://img.shields.io/badge/live-7a7a7a?style=flat-square" alt="live" /></a> | Node.js, Express, MySQL, SQLite, Docker |
-| <a href="https://github.com/17DevLoverProTec/pixel-dub"><img src="https://img.shields.io/badge/pixel--dub-3a3a3a?style=flat-square" alt="pixel-dub" /></a> | Turns portraits into halftone dot art | Processing |
-| <a href="https://github.com/17DevLoverProTec/gallery_owls"><img src="https://img.shields.io/badge/gallery__owls-3a3a3a?style=flat-square" alt="gallery_owls" /></a> | Draggable 3D card carousel | JavaScript |
-| <a href="https://github.com/17DevLoverProTec/travel_timeline_site"><img src="https://img.shields.io/badge/travel__timeline__site-3a3a3a?style=flat-square" alt="travel_timeline_site" /></a> | Animated timeline of a 10-day Pakistan tour | Bootstrap |
-| <a href="https://github.com/17DevLoverProTec/learn-python"><img src="https://img.shields.io/badge/learn--python-3a3a3a?style=flat-square" alt="learn-python" /></a> | Python tutorials, beginner to advanced | Python |
-
-### Client work (live)
-
-<p>
-  <a href="https://thewildwearable.com/"><img src="https://img.shields.io/badge/The%20Wild%20Wearable-3a3a3a?style=flat-square" alt="The Wild Wearable" /></a>
-  <a href="http://wheeltick.com/"><img src="https://img.shields.io/badge/Wheeltick-3a3a3a?style=flat-square" alt="Wheeltick" /></a>
-  <a href="http://marinechecker.com/"><img src="https://img.shields.io/badge/Marine%20Checker-3a3a3a?style=flat-square" alt="Marine Checker" /></a>
-  <a href="https://clipzolounge.com/"><img src="https://img.shields.io/badge/Clipzo%20Lounge-3a3a3a?style=flat-square" alt="Clipzo Lounge" /></a>
-  <a href="http://pureziaorganics.com/"><img src="https://img.shields.io/badge/Purezia%20Organics-3a3a3a?style=flat-square" alt="Purezia Organics" /></a>
-</p>
+| **The Wild Wearable** | Premium project | <a href="https://thewildwearable.com/"><img src="https://img.shields.io/badge/VISIT-3a3a3a?style=flat-square" alt="VISIT" /></a> |
+| **Wheeltick** | WordPress development | <a href="http://wheeltick.com/"><img src="https://img.shields.io/badge/VISIT-3a3a3a?style=flat-square" alt="VISIT" /></a> |
+| **Marine Checker** | WordPress portal | <a href="http://marinechecker.com/"><img src="https://img.shields.io/badge/VISIT-3a3a3a?style=flat-square" alt="VISIT" /></a> |
+| **Clipzo Lounge** | Premium web application | <a href="https://clipzolounge.com/"><img src="https://img.shields.io/badge/VISIT-3a3a3a?style=flat-square" alt="VISIT" /></a> |
+| **Purezia Organics** | WordPress e-commerce | <a href="http://pureziaorganics.com/"><img src="https://img.shields.io/badge/VISIT-3a3a3a?style=flat-square" alt="VISIT" /></a> |
 
 ## Experience
 
