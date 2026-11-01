@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About
+## About
 
 I love **C** and **Java** (including desktop apps with **Swing**) more than anything. They are where I think best, and where I learned what clean, honest code looks like. Around them I build for the web: custom WordPress ecosystems, Node.js apps, and motion-heavy front ends.
 
@@ -29,7 +29,7 @@ int main(void) {
 }
 ```
 
-## 🛠️ What I work with
+## What I work with
 
 <p>
   <img src="https://img.shields.io/badge/C-3a3a3a?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -53,7 +53,7 @@ int main(void) {
 
 Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotlin**.
 
-## 🎯 Focus areas
+## Focus areas
 
 - **Systems and graphics:** C and C++ with SDL2
 - **Java and Swing:** core fundamentals, object-oriented design, and desktop GUIs with Swing
@@ -61,7 +61,7 @@ Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotli
 - **WordPress engineering:** themes, plugins, and performance-focused builds
 - **Motion on the web:** GSAP and WebGL experiences
 
-## 🚀 Projects
+## Projects
 
 ### Built in C and Java
 
@@ -87,7 +87,7 @@ Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotli
 
 [The Wild Wearable](https://thewildwearable.com/) · [Wheeltick](http://wheeltick.com/) · [Marine Checker](http://marinechecker.com/) · [Clipzo Lounge](https://clipzolounge.com/) · [Purezia Organics](http://pureziaorganics.com/)
 
-## 💼 Experience
+## Experience
 
 | When | Role | Where |
 |:--|:--|:--|
@@ -95,9 +95,9 @@ Also: Java Swing, SDL2, WebGL, Bootstrap, Processing. Currently learning **Kotli
 | 2020 – 2023 | Intern | Lamhe Production |
 | Mar 2019 – Jan 2020 | Junior Website Developer | DigiTech |
 
-🎓 Usman Institute of Technology, Karachi
+Usman Institute of Technology, Karachi
 
-## 📫 Get in touch
+## Get in touch
 
 Got an idea or a role in mind? I'd love to hear it.
 
