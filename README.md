@@ -2,7 +2,7 @@
 
 Full-stack developer based in Karachi. I enjoy building in **C and Java**, making useful desktop tools, and developing full-stack and WordPress sites.
 
-[Portfolio](https://talha-dev-topaz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sheikhmuhammadtalhabinkhalid/) · [Email](mailto:muhammadtalhabinkhalid@gmail.com)
+[Portfolio](https://talha-dev-topaz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sheikhmuhammadtalhabinkhalid/) · [Email](mailto:muhammadtalhabinkhalid@gmail.com) · [LeetCode](https://leetcode.com/u/regretsandfuckupsoftalha/)
 
 ## Selected work
 
