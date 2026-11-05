@@ -1,4 +1,4 @@
-# Talha
+# talha
 
 Full-stack developer based in Karachi. I enjoy building in **C and Java**, making useful desktop tools, and developing full-stack and WordPress sites.
 
